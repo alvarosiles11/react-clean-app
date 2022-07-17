@@ -1,4 +1,4 @@
-package com.casagrande_app.SSBackgroundLocation;
+package com.reactclean_app.SSBackgroundLocation;
 
 import android.Manifest;
 import android.app.Notification;
@@ -23,8 +23,8 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.app.NotificationCompat;
 
 import com.facebook.react.HeadlessJsTaskService;
-import com.casagrande_app.MainActivity;
-import com.casagrande_app.R;
+import com.reactclean_app.MainActivity;
+import com.reactclean_app.R;
 
 import org.json.JSONException;
 import org.json.JSONObject;

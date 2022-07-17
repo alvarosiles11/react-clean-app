@@ -36,7 +36,7 @@ const App = (props) => {
                 <SNavigation props={{
                     prefixes: ["https://component.servisofts.com", "component.servisofts://"],
                     pages: Pages,
-                    title: "App Casa Grande",
+                    title: "App reactclean_app",
 
                 }} />
                 {/* <SSocket  store={store} identificarse={(props) => {

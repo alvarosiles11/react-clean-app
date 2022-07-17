@@ -129,12 +129,12 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.casagrande_app"
+        applicationId "com.reactclean_app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 8
         versionName "1.0.7"
-                missingDimensionStrategy 'react-native-camera', 'mlkit'  
+                missingDimensionStrategy 'react-native-camera', 'mlkit'
 
     }
     splits {

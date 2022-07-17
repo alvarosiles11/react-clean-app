@@ -1,4 +1,4 @@
-package com.casagrande_app;
+package com.reactclean_app;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "casagrande_app";
+    return "reactclean_app";
   }
 }

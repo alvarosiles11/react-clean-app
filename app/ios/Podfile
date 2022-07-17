@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '11.0'
 
-target 'casagrande_app' do
+target 'reactclean_app' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
@@ -14,7 +14,7 @@ target 'casagrande_app' do
   pod 'GoogleMaps'
   pod 'GooglePlaces'
   pod 'Google-Maps-iOS-Utils'
-  
+
   # pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
 
   # pod 'react-native-image-resizer', :path => '../node_modules/react-native-image-resizer'

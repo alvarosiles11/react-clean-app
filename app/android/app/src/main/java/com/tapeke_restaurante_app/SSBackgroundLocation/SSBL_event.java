@@ -1,4 +1,4 @@
-package com.casagrande_app.SSBackgroundLocation;
+package com.reactclean_app.SSBackgroundLocation;
 
 import android.content.Intent;
 import android.os.Bundle;

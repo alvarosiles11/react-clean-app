@@ -1,4 +1,4 @@
-package com.casagrande_app.SSBackgroundLocation;
+package com.reactclean_app.SSBackgroundLocation;
 
 import androidx.annotation.NonNull;
 

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "casagrande_app.app"
-               BlueprintName = "casagrande_app"
-               ReferencedContainer = "container:casagrande_app.xcodeproj">
+               BuildableName = "reactclean_app.app"
+               BlueprintName = "reactclean_app"
+               ReferencedContainer = "container:reactclean_app.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "casagrande_appTests.xctest"
-               BlueprintName = "casagrande_appTests"
-               ReferencedContainer = "container:casagrande_app.xcodeproj">
+               BuildableName = "reactclean_appTests.xctest"
+               BlueprintName = "reactclean_appTests"
+               ReferencedContainer = "container:reactclean_app.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "casagrande_app.app"
-            BlueprintName = "casagrande_app"
-            ReferencedContainer = "container:casagrande_app.xcodeproj">
+            BuildableName = "reactclean_app.app"
+            BlueprintName = "reactclean_app"
+            ReferencedContainer = "container:reactclean_app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "casagrande_app.app"
-            BlueprintName = "casagrande_app"
-            ReferencedContainer = "container:casagrande_app.xcodeproj">
+            BuildableName = "reactclean_app.app"
+            BlueprintName = "reactclean_app"
+            ReferencedContainer = "container:reactclean_app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
